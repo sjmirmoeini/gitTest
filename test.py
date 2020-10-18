@@ -15,4 +15,5 @@ def zoj(a):
 
 vaziat(x)
 zoj(x)
+print('gorbe')
 
