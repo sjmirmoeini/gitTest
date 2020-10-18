@@ -3,6 +3,6 @@ x = int(input())
 
 def vaziat(y):
     if y > 10:
-        print('are')
+        print('kos')
     if y <= 10:
         print('naa')
